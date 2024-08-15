@@ -48,8 +48,7 @@ This project provides Disney Corporation with actionable insights and strategic 
 ## Contributors
 
 - Nofiu Moruf Pelumi
-- [Other team members' names]
 
 ## License
 
-This project is licensed under the [Your Preferred License].
+This project is licensed.
